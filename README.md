@@ -30,3 +30,6 @@ linux-server-monitoring/
 ├── screenshots/
 ├── .gitignore
 └── README.md
+## Monitoring Output
+
+![Linux Server Monitoring](linux.png)
